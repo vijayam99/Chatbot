@@ -18,3 +18,10 @@ How to Use:
 1. Host all .html files on any static web server or GitHub Pages.
 2. Ensure chatbot.html contains the iframe from chatbot_info.txt.
 3. No backend or database is required; everything runs client-side through the GPT API.
+
+Website:
+https://vijayam99.github.io/Chatbot/
+
+Backup website:
+Used- Dora.ai to create this website
+https://x7bpzxq5.dora.run/
